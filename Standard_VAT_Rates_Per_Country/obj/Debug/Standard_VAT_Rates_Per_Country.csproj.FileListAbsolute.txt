@@ -1,0 +1,12 @@
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\obj\Debug\Standard_VAT_Rates_Per_Country.Properties.Resources.resources
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\obj\Debug\Standard_VAT_Rates_Per_Country.csproj.GenerateResource.cache
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\obj\Debug\Standard_VAT_Rates_Per_Country.csproj.CoreCompileInputs.cache
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\bin\Debug\Standard_VAT_Rates_Per_Country.exe.config
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\bin\Debug\Standard_VAT_Rates_Per_Country.exe
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\bin\Debug\Standard_VAT_Rates_Per_Country.pdb
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\obj\Debug\Standard_VAT_Rates_Per_Country.exe
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\obj\Debug\Standard_VAT_Rates_Per_Country.pdb
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\obj\Debug\Standard_VAT_Rates_Per_Country.csproj.CopyComplete
+C:\Users\Gastón\Documents\My Documents\DESARROLLOS\FRG\Standard_VAT_Rates_Per_Country\Standard_VAT_Rates_Per_Country\obj\Debug\Standard_VAT_Rates_Per_Country.csprojAssemblyReference.cache
